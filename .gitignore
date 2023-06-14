@@ -1,0 +1,8 @@
+/node_modules
+
+/$HOME
+
+*.mp3
+
+package-lock.json
+package.json
